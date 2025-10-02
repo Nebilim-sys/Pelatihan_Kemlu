@@ -12,6 +12,12 @@ data_kedutaan = {
         "nama" : "KBRI Singapura",
         "alamat" : "Singapura",
         "jam kerja" : "senin - jumat, 9:00 - 18:00"
+    },
+
+    "amerika" : {
+        "nama" : "KBRI Washington DC",
+        "alamat" : "DC",
+        "jam kerja" : "senin - jumat, 9:00 - 18:00"
     }
 }
 
